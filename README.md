@@ -32,7 +32,7 @@
 	  <img src="squid.png" alt="My logo">
 	  <h1>Sihun Kim</h1>
 	  <p>Website: <a href="shun14656@gmail.com">ksh12589@gmail.com</a></p>
-	  <p>Phone: (675)342-8970</p>
+	  <p>Phone: (657)220-3265</p>
 	  <p>Address: 789 Wildcat Way, Brea, CA 92821</p>
 	  <p>Email:<a href="shun14656@gmail.com">ksh12589@gmail.com</a></p>
 	  <img src="bh_qr.png" alt="QR Code">
